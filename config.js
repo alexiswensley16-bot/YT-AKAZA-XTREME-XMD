@@ -15,7 +15,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 //anticall on/off
    ANTI_CALL: process.env.ANTI_CALL || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY PRINCE XTREME 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "XTREME~XMD~bsJmjRBB#Efo3QjzeWVre-GDUkrIUsffi_RDTMla8h15xQhgH_EU",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
